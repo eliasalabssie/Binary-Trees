@@ -23,7 +23,7 @@
 #include<iostream>
 using namespace std;
 
-
+//class BinTree
 class BinTree 
 {				// you add class/method comments and assumptions
 	// declaring friend classes 
